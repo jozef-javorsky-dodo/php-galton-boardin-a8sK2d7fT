@@ -1,4 +1,4 @@
-php
+<!-- php -->
 <?php
 
 const DEFAULT_ROWS = 9;
